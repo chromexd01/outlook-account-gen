@@ -1,0 +1,4 @@
+selenium
+faker
+beautystyle
+random
