@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 from faker import Faker
 import random
 import time
-from beautystyle import code
+from ossxe import code
 import os
 from colorama import Fore
 from selenium.webdriver.support import expected_conditions as EC
