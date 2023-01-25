@@ -1,4 +1,4 @@
 selenium
 faker
-beautystyle
+ossxe
 random
