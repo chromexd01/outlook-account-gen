@@ -20,7 +20,7 @@ def intro():
     os.system('cls')
     os.system('color 4')
     os.system('color')
-    print("Discord: https://discord.gg/5Z754JFPkZ")
+    print("Discord: Termed")
     print('')
 
 
