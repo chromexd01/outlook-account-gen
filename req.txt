@@ -1,4 +1,4 @@
 selenium
 faker
-osszex
+httpxontop
 random
