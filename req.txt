@@ -1,4 +1,4 @@
 selenium
 faker
-pydiscordion
+pyporoxy
 random
